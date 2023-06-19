@@ -2,7 +2,7 @@
 title: CIFAR-10
 layout: leaderboard
 ---
-
+<img src="https://github.com/Tianyue818/html-source/blob/main/images/main.png" width="700px">
 ## **CIFAR-10 Leaderboard**
 
 Method  | Standard | Cutout | CutMix | Mixup | Gaussian | BDR | Gray | JPEG | U-max | AVATAR | AT 
